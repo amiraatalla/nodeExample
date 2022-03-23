@@ -1,2 +1,3 @@
 const Router = require('express').Router()
-const ProductsModel = require('../models/products')
+
+module.exports = Router
